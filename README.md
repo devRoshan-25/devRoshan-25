@@ -28,11 +28,24 @@
 </p>
 
 ---
-## 🏆 Hackathons & Open-Source Contributions  
-🔥 Participated in **CSI UI/UX Hackathon** 🎨  
-🔥 Completed **Hacktoberfest 2024** ✅  
-🌱 Working on **Portal for Farmer Empowerment** 🚜  
-💡 Contributing to **open-source projects** on GitHub!  
+
+## 🏆 Achievements
+
+### 🎖️ Holopin Badges
+[![An image of @devroshan25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devroshan25)](https://holopin.io/@devroshan25)
+
+
+### 🚀 Open Source Contributions  
+- ✅ Completed **Hacktoberfest 2024**  
+- 🔥 Hosted a project for **Hacktoberfest contributions**  
+- 🎯 Helped students make their **open-source commits**  
+- 🌍 Contributed to **4+ repositories**  
+
+### 🎨 Hackathons & Projects  
+- 🏆 **Participated in CSI UI/UX Hackathon**  
+- 🚜 **Building "Portal for Farmer Empowerment"**  
+- 💡 Actively **contributing to open-source projects**  
+
 
 
 ---
