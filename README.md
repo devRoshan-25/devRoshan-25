@@ -32,12 +32,13 @@
 
 ### **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshanniksm&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roshanniksm&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanniksm&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanniksm&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ⭐ **Thanks for stopping by! Feel free to explore my repos and contribute! 🚀**  
-
