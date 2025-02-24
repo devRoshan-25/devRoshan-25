@@ -28,17 +28,13 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshannikam&show_icons=true&theme=transparent&hide_border=true" height="140px" />
-<img src="https://img.shields.io/badge/GitHub%20Streak-🔥%20100%20Days-red?style=for-the-badge" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshannikam&layout=compact&theme=transparent&hide_border=true" height="140px" />
-</p>
-
----
+## 🏆 Hackathons & Open-Source Contributions  
+🔥 Participated in **CSI UI/UX Hackathon** 🎨  
+🔥 Completed **Hacktoberfest 2024** ✅  
+🌱 Working on **Portal for Farmer Empowerment** 🚜  
+💡 Contributing to **open-source projects** on GitHub!  
 
 
--
 ---
 
 ⭐ **Thanks for stopping by! Feel free to explore my repos and contribute! 🚀**  
