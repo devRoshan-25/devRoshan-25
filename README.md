@@ -31,7 +31,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshannikam&show_icons=true&theme=transparent&hide_border=true" height="140px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roshannikam&theme=transparent&hide_border=true" height="140px" />
+<img src="https://streak-stats.demolab.com/?user=roshannikam&theme=transparent&hide_border=true" height="140px" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshannikam&layout=compact&theme=transparent&hide_border=true" height="140px" />
 </p>
 
