@@ -32,8 +32,9 @@
 ## 🏆 Achievements
 
 ### 🎖️ Holopin Badges
+<div align="center">
 [![An image of @devroshan25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devroshan25)](https://holopin.io/@devroshan25)
-
+</div>
 
 ### 🚀 Open Source Contributions  
 - ✅ Completed **Hacktoberfest 2024**  
