@@ -29,38 +29,14 @@
 
 ---
 
-<!-- GITHUB STATS SECTION -->
-## 📊 GitHub Stats  
-
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=roshannikam&show_icons=true&theme=dark&count_private=true" 
-      media="(prefers-color-scheme: dark)">
-    <img src="https://github-readme-stats.vercel.app/api?username=roshannikam&show_icons=true&theme=light&count_private=true">
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=roshannikam&show_icons=true&theme=transparent&hide_border=true" height="140px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=roshannikam&theme=transparent&hide_border=true" height="140px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshannikam&layout=compact&theme=transparent&hide_border=true" height="140px" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roshannikam&theme=transparent&hide_border=true" width="50%" />
-</p>
-
----
-
-## 🚀 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshannikam&layout=donut&theme=tokyonight" width="50%" />
-</p>
-
----
-
-## ⚡ GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roshannikam&theme=dracula&no-frame=true&margin-w=15" />
-</p>
 
 -
 ---
