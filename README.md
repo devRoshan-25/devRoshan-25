@@ -30,30 +30,39 @@
 ---
 
 <!-- GITHUB STATS SECTION -->
-### 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshannikam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roshannikam&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshannikam&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
+## 📊 GitHub Stats  
 
----
-
-<!-- ANIMATED QUOTE -->
-### 🎯 Quote of the Day  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=roshannikam&show_icons=true&theme=dark&count_private=true" 
+      media="(prefers-color-scheme: dark)">
+    <img src="https://github-readme-stats.vercel.app/api?username=roshannikam&show_icons=true&theme=light&count_private=true">
+  </picture>
 </p>
 
 ---
 
-<!-- FUN WIDGETS -->
-### 🎵 Now Playing  
+## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=roshannikam&theme=transparent&hide_border=true" width="50%" />
 </p>
 
+---
+
+## 🚀 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshannikam&layout=donut&theme=tokyonight" width="50%" />
+</p>
+
+---
+
+## ⚡ GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roshannikam&theme=dracula&no-frame=true&margin-w=15" />
+</p>
+
+-
 ---
 
 ⭐ **Thanks for stopping by! Feel free to explore my repos and contribute! 🚀**  
