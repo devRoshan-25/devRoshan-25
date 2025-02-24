@@ -1,45 +1,57 @@
-<h1 align="center">Hi, I'm Roshan Niksm! 🚀</h1>  
-<h3 align="center">Aspiring Full Stack Developer | UI/UX Enthusiast | MERN Stack Learner</h3>  
+<!-- HEADER -->
+<h1 align="center">Hey there! 👋 I'm Roshan Nikam</h1>
+<h3 align="center">Aspiring Full Stack Developer | UI/UX Enthusiast | MERN Stack Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roshanniksm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=roshannikam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### **💡 About Me**
-- 🎓 Computer Engineering student at DMCE  
-- 🔭 Currently working on **MERN Stack & UI/UX projects**  
-- 🌱 Learning **Express.js, MongoDB, and GSAP for animations**  
-- 💬 Ask me about **JavaScript, Web Development, and UI/UX Design**  
-- 🚀 Active member of **CSI Technical Team**  
-- 🎯 Building a **Farmer Portal Chatbot** and an **Alumni HUB platform**  
-- ⚡ Fun fact: I love **tech and clean UI designs!**  
+<!-- ABOUT SECTION -->
+### 🧑‍💻 About Me  
+💡 **Passionate about Web Development & UI/UX**  
+🎓 **Computer Engineering student at DMCE**  
+🔭 **Currently building a Farmer Portal Chatbot & Alumni HUB**  
+🌱 **Learning Express.js, MongoDB & GSAP**  
+📌 **Active Member of CSI Technical Team**  
+💬 **Ask me about JavaScript, Web Development & UI/UX**  
+🚀 **Open to collaborations & hackathons**  
+✨ **Fun fact: I love minimal UI designs!**  
 
 ---
 
-### **⚒️ Tech Stack**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
-
----
-
-### **📊 GitHub Stats**
+<!-- TECH STACK -->
+### ⚒️ Tech Stack  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshannikam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,figma" />
+</p>
+
+---
+
+<!-- GITHUB STATS SECTION -->
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshannikam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=roshannikam&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshannikam&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roshanniksm&theme=radical&hide_border=true" alt="GitHub Streak" />
+---
 
+<!-- ANIMATED QUOTE -->
+### 🎯 Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshannikam&layout=compact&theme=radical" alt="Top Languages" />
+---
+
+<!-- FUN WIDGETS -->
+### 🎵 Now Playing  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false" />
 </p>
 
 ---
