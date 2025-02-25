@@ -12,7 +12,7 @@
 ### 🧑‍💻 About Me  
 💡 **Passionate about Web Development & UI/UX**  
 🎓 **Computer Engineering student at DMCE**  
-🔭 **Currently building a Farmer Portal Chatbot & Alumni HUB**  
+🔭 **Currently building a Farmer Portal Chatbot & Story telling Website**  
 🌱 **Learning Express.js, MongoDB & GSAP**  
 📌 **Active Member of CSI Technical Team**  
 💬 **Ask me about JavaScript, Web Development & UI/UX**  
